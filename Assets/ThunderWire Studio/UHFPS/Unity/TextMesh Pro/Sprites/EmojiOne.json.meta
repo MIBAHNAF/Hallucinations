@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8f05276190cf498a8153f6cbe761d4e6
+timeCreated: 1480316860
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254506
+  packageName: UHFPS - Ultimate Horror FPS KIT (URP)
+  packageVersion: 1.4.1
+  assetPath: Assets/ThunderWire Studio/UHFPS/Unity/TextMesh Pro/Sprites/EmojiOne.json
+  uploadId: 737881

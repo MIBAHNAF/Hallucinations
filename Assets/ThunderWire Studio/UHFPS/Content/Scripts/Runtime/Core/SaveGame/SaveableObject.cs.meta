@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 62328228a04f3d34abb267f7e4d84e9f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254506
+  packageName: UHFPS - Ultimate Horror FPS KIT (URP)
+  packageVersion: 1.4.1
+  assetPath: Assets/ThunderWire Studio/UHFPS/Content/Scripts/Runtime/Core/SaveGame/SaveableObject.cs
+  uploadId: 737881

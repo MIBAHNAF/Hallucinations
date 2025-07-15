@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: af5a5557b6503764b8bfe4bdc7c4b06e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254506
+  packageName: UHFPS - Ultimate Horror FPS KIT (URP)
+  packageVersion: 1.4.1
+  assetPath: Assets/ThunderWire Studio/UHFPS/ThirdParty/HierarchyDecorator/Scripts/Editor/GUI/Drawers/ReorderableDrawer.cs
+  uploadId: 737881

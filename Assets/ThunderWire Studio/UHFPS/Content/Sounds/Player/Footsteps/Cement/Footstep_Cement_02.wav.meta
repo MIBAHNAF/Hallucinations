@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: ffe7cb1c8d177ed43bcb30d242f8e923
+AudioImporter:
+  externalObjects: {}
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  preloadAudioData: 1
+  loadInBackground: 0
+  ambisonic: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254506
+  packageName: UHFPS - Ultimate Horror FPS KIT (URP)
+  packageVersion: 1.4.1
+  assetPath: Assets/ThunderWire Studio/UHFPS/Content/Sounds/Player/Footsteps/Cement/Footstep_Cement_02.wav
+  uploadId: 737881

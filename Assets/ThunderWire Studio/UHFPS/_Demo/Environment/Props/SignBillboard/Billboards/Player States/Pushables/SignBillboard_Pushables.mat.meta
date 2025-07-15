@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 08208ef3766bc1f408a76aacc3722bad
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254506
+  packageName: UHFPS - Ultimate Horror FPS KIT (URP)
+  packageVersion: 1.4.1
+  assetPath: Assets/ThunderWire Studio/UHFPS/_Demo/Environment/Props/SignBillboard/Billboards/Player
+    States/Pushables/SignBillboard_Pushables.mat
+  uploadId: 737881

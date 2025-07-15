@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 97a1197e1da086e48aa5465dfb09142f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254506
+  packageName: UHFPS - Ultimate Horror FPS KIT (URP)
+  packageVersion: 1.4.1
+  assetPath: Assets/ThunderWire Studio/UHFPS/Content/Scripts/Editor/Drawers/Attributes/PlayerStateDrawer.cs
+  uploadId: 737881

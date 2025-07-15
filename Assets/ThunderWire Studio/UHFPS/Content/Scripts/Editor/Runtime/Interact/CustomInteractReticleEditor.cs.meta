@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: df1b18425d5617843b5e87ed590cc007
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254506
+  packageName: UHFPS - Ultimate Horror FPS KIT (URP)
+  packageVersion: 1.4.1
+  assetPath: Assets/ThunderWire Studio/UHFPS/Content/Scripts/Editor/Runtime/Interact/CustomInteractReticleEditor.cs
+  uploadId: 737881

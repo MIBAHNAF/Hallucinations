@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: add31fdf780f7b6459b9d50db1cb45be
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254506
+  packageName: UHFPS - Ultimate Horror FPS KIT (URP)
+  packageVersion: 1.4.1
+  assetPath: Assets/ThunderWire Studio/UHFPS/Content/Shaders/Scanlines/Shader/Scanlines.shader
+  uploadId: 737881

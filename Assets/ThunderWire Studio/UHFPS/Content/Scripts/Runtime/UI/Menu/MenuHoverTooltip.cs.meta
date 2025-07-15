@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 194a66f3ef5f9cc4c9daf754d845b89b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254506
+  packageName: UHFPS - Ultimate Horror FPS KIT (URP)
+  packageVersion: 1.4.1
+  assetPath: Assets/ThunderWire Studio/UHFPS/Content/Scripts/Runtime/UI/Menu/MenuHoverTooltip.cs
+  uploadId: 737881

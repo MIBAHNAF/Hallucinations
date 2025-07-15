@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fe393ace9b354375a9cb14cdbbc28be4
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254506
+  packageName: UHFPS - Ultimate Horror FPS KIT (URP)
+  packageVersion: 1.4.1
+  assetPath: Assets/ThunderWire Studio/UHFPS/Unity/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader
+  uploadId: 737881

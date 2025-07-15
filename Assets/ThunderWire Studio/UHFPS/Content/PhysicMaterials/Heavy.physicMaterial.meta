@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dab10c7c0915e5846bdd48991d23bfb5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 13400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254506
+  packageName: UHFPS - Ultimate Horror FPS KIT (URP)
+  packageVersion: 1.4.1
+  assetPath: Assets/ThunderWire Studio/UHFPS/Content/PhysicMaterials/Heavy.physicMaterial
+  uploadId: 737881

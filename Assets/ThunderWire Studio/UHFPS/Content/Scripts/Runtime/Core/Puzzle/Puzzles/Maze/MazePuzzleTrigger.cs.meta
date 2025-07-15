@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 764ff2a0e5abf2a4ba5f4a8bdcba18c5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254506
+  packageName: UHFPS - Ultimate Horror FPS KIT (URP)
+  packageVersion: 1.4.1
+  assetPath: Assets/ThunderWire Studio/UHFPS/Content/Scripts/Runtime/Core/Puzzle/Puzzles/Maze/MazePuzzleTrigger.cs
+  uploadId: 737881

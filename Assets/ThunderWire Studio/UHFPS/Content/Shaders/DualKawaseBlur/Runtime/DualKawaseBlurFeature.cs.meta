@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e11fe2087d35df14bb8e8ed40fe7b38b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254506
+  packageName: UHFPS - Ultimate Horror FPS KIT (URP)
+  packageVersion: 1.4.1
+  assetPath: Assets/ThunderWire Studio/UHFPS/Content/Shaders/DualKawaseBlur/Runtime/DualKawaseBlurFeature.cs
+  uploadId: 737881

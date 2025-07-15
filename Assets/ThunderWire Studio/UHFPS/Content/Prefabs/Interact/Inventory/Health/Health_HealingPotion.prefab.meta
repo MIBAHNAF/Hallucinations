@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e0122a25440913e4eb7143e7b7d93bba
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254506
+  packageName: UHFPS - Ultimate Horror FPS KIT (URP)
+  packageVersion: 1.4.1
+  assetPath: Assets/ThunderWire Studio/UHFPS/Content/Prefabs/Interact/Inventory/Health/Health_HealingPotion.prefab
+  uploadId: 737881

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b0f29def8563d5e408fb613d63f831a1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254506
+  packageName: UHFPS - Ultimate Horror FPS KIT (URP)
+  packageVersion: 1.4.1
+  assetPath: Assets/ThunderWire Studio/UHFPS/Content/Prefabs/Interact/Inventory/PlayerItems/PlayerItem_Axe.prefab
+  uploadId: 737881

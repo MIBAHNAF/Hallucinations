@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: fb33d1d9fff51044fb13caa424779b9f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254506
+  packageName: UHFPS - Ultimate Horror FPS KIT (URP)
+  packageVersion: 1.4.1
+  assetPath: Assets/ThunderWire Studio/UHFPS/Content/Scripts/Runtime/Core/Puzzle/Puzzles/Padlock/PadlockPuzzleDigit.cs
+  uploadId: 737881

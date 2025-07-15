@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f294314a349e95243beffad51cd8e732
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254506
+  packageName: UHFPS - Ultimate Horror FPS KIT (URP)
+  packageVersion: 1.4.1
+  assetPath: Assets/ThunderWire Studio/UHFPS/ScriptTemplates/AIState_Template.txt
+  uploadId: 737881

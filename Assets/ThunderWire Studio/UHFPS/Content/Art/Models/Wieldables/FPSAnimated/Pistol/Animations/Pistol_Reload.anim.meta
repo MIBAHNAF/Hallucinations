@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1d050e67e8719b64b9184b87d7468d6a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254506
+  packageName: UHFPS - Ultimate Horror FPS KIT (URP)
+  packageVersion: 1.4.1
+  assetPath: Assets/ThunderWire Studio/UHFPS/Content/Art/Models/Wieldables/FPSAnimated/Pistol/Animations/Pistol_Reload.anim
+  uploadId: 737881

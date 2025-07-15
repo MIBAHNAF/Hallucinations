@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2267b78c360d33a49866d16bf4eee989
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254506
+  packageName: UHFPS - Ultimate Horror FPS KIT (URP)
+  packageVersion: 1.4.1
+  assetPath: Assets/ThunderWire Studio/UHFPS/Content/Scripts/Runtime/Controllers/Player/PlayerStates/Smooth/SmoothIdleState.cs
+  uploadId: 737881

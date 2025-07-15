@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6e59c59b81ab47f9b6ec5781fa725d2c
+timeCreated: 1484171296
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254506
+  packageName: UHFPS - Ultimate Horror FPS KIT (URP)
+  packageVersion: 1.4.1
+  assetPath: Assets/ThunderWire Studio/UHFPS/Unity/TextMesh Pro/Fonts/LiberationSans
+    - OFL.txt
+  uploadId: 737881

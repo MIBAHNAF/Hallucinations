@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 22bd383795fb6f34b93b51a4caa75781
+timeCreated: 1473942560
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254506
+  packageName: UHFPS - Ultimate Horror FPS KIT (URP)
+  packageVersion: 1.4.1
+  assetPath: Assets/ThunderWire Studio/UHFPS/Content/Art/Models/Misc/BulletImpacts/Materials/Particles/BloodMist.mat
+  uploadId: 737881

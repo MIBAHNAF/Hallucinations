@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2addc2d8b9804a94288ba00836688a51
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254506
+  packageName: UHFPS - Ultimate Horror FPS KIT (URP)
+  packageVersion: 1.4.1
+  assetPath: Assets/ThunderWire Studio/UHFPS/_Demo/Cutscenes/PlayerCutscene/CutscenePlayer.playable
+  uploadId: 737881

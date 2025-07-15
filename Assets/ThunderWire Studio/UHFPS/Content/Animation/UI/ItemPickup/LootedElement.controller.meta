@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 91b9380086a41394eaebe1122c3426ca
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254506
+  packageName: UHFPS - Ultimate Horror FPS KIT (URP)
+  packageVersion: 1.4.1
+  assetPath: Assets/ThunderWire Studio/UHFPS/Content/Animation/UI/ItemPickup/LootedElement.controller
+  uploadId: 737881

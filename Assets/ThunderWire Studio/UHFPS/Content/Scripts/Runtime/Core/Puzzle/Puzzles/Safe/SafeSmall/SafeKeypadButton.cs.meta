@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 90a5119ba2aaef041aaf4264dcfff1ba
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254506
+  packageName: UHFPS - Ultimate Horror FPS KIT (URP)
+  packageVersion: 1.4.1
+  assetPath: Assets/ThunderWire Studio/UHFPS/Content/Scripts/Runtime/Core/Puzzle/Puzzles/Safe/SafeSmall/SafeKeypadButton.cs
+  uploadId: 737881

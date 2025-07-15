@@ -1,0 +1,110 @@
+{
+  "id": "98bf4553c1f441338c7b4ae6da133dca",
+  "playerData": {
+    "position": {
+      "x": -1.78078616,
+      "y": 0.9999999,
+      "z": -2.80685163
+    },
+    "rotation": {
+      "x": 5.813977,
+      "y": 0.0
+    },
+    "localData": {
+      "health": 100,
+      "selectedItem": -1,
+      "playerItems": {
+        "playerItem_0": {
+          "recordingTime": 0,
+          "batteryEnergy": 100.0,
+          "nightVision": false
+        },
+        "playerItem_1": {},
+        "playerItem_2": {},
+        "playerItem_3": {
+          "flashlightAttached": false
+        },
+        "playerItem_4": {
+          "batteryEnergy": 320.0
+        },
+        "playerItem_5": {
+          "currentFuel": 60.0
+        },
+        "playerItem_6": {},
+        "playerItem_7": {},
+        "playerItem_8": {
+          "baseTemp": 23.0
+        },
+        "playerItem_9": {}
+      }
+    },
+    "globalData": {
+      "inventory": {
+        "expanded": 0,
+        "items": {},
+        "shortcuts": {
+          "shortcut_0": "{}",
+          "shortcut_1": "{}",
+          "shortcut_2": "{}",
+          "shortcut_3": "{}"
+        }
+      },
+      "objectives": {
+        "FInd A Way Out ": {
+          "isCompleted": false,
+          "subObjectives": {
+            "Take Elevator To 1st Floor": {
+              "completeCount": 0,
+              "isCompleted": false
+            }
+          }
+        }
+      }
+    }
+  },
+  "worldState": {
+    "worldSaveables": {
+      "ElevatorSystem.83215cef2156a1245bc15e7e64b93cd6": {
+        "floor": 0
+      },
+      "DraggableItem.f3734cb62dc12944fad6c19a31e8aefe": {
+        "position": {
+          "x": -4.539,
+          "y": -57.1664963,
+          "z": -0.421
+        },
+        "rotation": {
+          "x": 270.0,
+          "y": 319.823547,
+          "z": 0.0
+        }
+      },
+      "NPCHealth.bbc137ae801fd5f429ff96f590261842": {
+        "position": {
+          "x": -20.3223248,
+          "y": -58.9676666,
+          "z": 1.9587754
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 199.265579,
+          "z": 0.0
+        },
+        "health": 100
+      },
+      "DraggableItem.09ce2beac1252e640b2d6252f4fcbfbc": {
+        "position": {
+          "x": -4.617,
+          "y": -57.1664963,
+          "z": -0.15700005
+        },
+        "rotation": {
+          "x": 270.0,
+          "y": 5.15903121E-05,
+          "z": 0.0
+        }
+      }
+    },
+    "runtimeSaveables": {}
+  }
+}

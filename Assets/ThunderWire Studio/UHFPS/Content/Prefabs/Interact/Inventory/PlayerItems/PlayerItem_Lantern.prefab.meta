@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a08209674139cfd46bb2f6c4b6297c7c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254506
+  packageName: UHFPS - Ultimate Horror FPS KIT (URP)
+  packageVersion: 1.4.1
+  assetPath: Assets/ThunderWire Studio/UHFPS/Content/Prefabs/Interact/Inventory/PlayerItems/PlayerItem_Lantern.prefab
+  uploadId: 737881

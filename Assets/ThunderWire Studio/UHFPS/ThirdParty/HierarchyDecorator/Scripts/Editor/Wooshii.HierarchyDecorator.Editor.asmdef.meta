@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e2bb8bdb348a99e4f98d1aa16a66ad1b
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254506
+  packageName: UHFPS - Ultimate Horror FPS KIT (URP)
+  packageVersion: 1.4.1
+  assetPath: Assets/ThunderWire Studio/UHFPS/ThirdParty/HierarchyDecorator/Scripts/Editor/Wooshii.HierarchyDecorator.Editor.asmdef
+  uploadId: 737881

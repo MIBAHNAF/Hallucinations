@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93cb5bd7e8a706a41b793e7440b34eea, type: 3}
+  m_Name: Another Nightmare
+  m_EditorClassIdentifier: 
+  Dialogues:
+  - DialogueAudio: {fileID: 8300000, guid: 8df24955026f1a64399ab29e366f3a8e, type: 3}
+    SubtitleType: 0
+    SingleSubtitle:
+      Time: 0
+      Narrator: Ethan
+      NarratorColor: {r: 0.96981126, g: 0.7740191, b: 0.7810654, a: 1}
+      Text:
+        GlocText: '*Uhhh... another nightmare... I need to take my medication. I
+          can feel it getting worse...'
+        NormalText: 
+    Subtitles: []
+  references:
+    version: 2
+    RefIds: []

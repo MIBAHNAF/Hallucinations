@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 68e6db2ebdc24f95958faec2be5558d6
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254506
+  packageName: UHFPS - Ultimate Horror FPS KIT (URP)
+  packageVersion: 1.4.1
+  assetPath: Assets/ThunderWire Studio/UHFPS/Unity/TextMesh Pro/Shaders/TMP_SDF.shader
+  uploadId: 737881
